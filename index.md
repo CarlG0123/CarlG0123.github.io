@@ -1,8 +1,6 @@
 ## CarlG0123's Projects
 
-You can use the [editor on GitHub](https://github.com/CarlG0123/CarlG0123.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a Undergraduate Computer Science Major at Wesleyan University. Over the past years, I have worked on several projects, most of them being mobile apps. Although many of my projects concern app development, I am beginning to branch into web development. Computer Science has always been a huge passion of mine, and I really enjoy how I am able to incorporate concepts that I have learned in classses such as Differential Equations, Information Theory, or Linear Algebra, into my programs. I have taken classes in multiple computer science topics, such as Expert Systems, Compilers and Interpreters, Computer Architecture, Numerical Methods, and even have done, individual research into subjects such as quantum computing and the connectome.
 
 ### Markdown
 
