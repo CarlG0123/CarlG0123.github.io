@@ -5,7 +5,8 @@ I am a Undergraduate Computer Science Major at Wesleyan University. Over the pas
 
 ## Projects
 ### Harker Robotics Scouting App
-One of my largest project is developing a data collection app for the FRC Harker Robotics Team. It functions as a partner app with another app that another member of the team developed to store and view all the data. My app focused on allowing to user to intutively and quickly record data as each match was happening. At first the UI may seem confusing, but for more details on how the competition actually worked, check out this link: [https://www.youtube.com/watch?v=Mew6G_og-PI]
+One of my largest project is developing a data collection app for the FRC Harker Robotics Team. It functions as a partner app with another app that another member of the team developed to store and view all the data. My app focused on allowing to user to intutively and quickly record data as each match was happening. At first the UI may seem confusing, but for more details on how the competition actually worked, check out [this link](https://www.youtube.com/watch?v=Mew6G_og-PI)
+
 [Link to the repository](https://github.com/CarlG0123/ScoutingApp)
 
 ***THIS PAGE IS STILL A WORK IN PROGRESS***
