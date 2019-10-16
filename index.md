@@ -1,8 +1,10 @@
-## CarlG0123's Github
+# CarlG0123's Github
 
+## Bio
 I am a Undergraduate Computer Science Major at Wesleyan University. Over the past years, I have worked on several projects, most of them being mobile apps. Although many of my projects concern app development, I am beginning to branch into web development. Computer Science has always been a huge passion of mine, and I really enjoy how I am able to incorporate concepts that I have learned in classses such as Differential Equations, Information Theory, Discrete Mathematics, or Linear Algebra, into my programs. I have taken classes in multiple computer science topics, such as Expert Systems, Compilers and Interpreters, Computer Architecture, Numerical Methods, and even have done, individual research into subjects such as quantum computing and the connectome.
 
 ## Projects
+### Harker Robotics Scouting App
 One of my largest project is developing a data collection app for the FRC Harker Robotics Team. It functions as a partner app with another app that another member of the team developed to store and view all the data. My app focused on allowing to user to intutively and quickly record data as each match was happening. At first the UI may seem confusing, but for more details on how the competition actually worked, check out this link: [https://www.youtube.com/watch?v=Mew6G_og-PI]
 [Link to the repository](https://github.com/CarlG0123/ScoutingApp)
 
