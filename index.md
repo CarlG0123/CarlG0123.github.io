@@ -12,40 +12,10 @@ One of my largest project is developing a data collection app for the FRC Harker
 This is another one of my larger projects. I developed this IOS game while at the National High School Game Academy at CMU in Pennsylvania. I worked on this game as a programmer in a team of 5 developers (2 artists, 2 programmers, 1 sound designer). In addition to my role as a programmer, I designed the puzzles and worked on creating a story with an emotional pull based around an old man trying to save a dying plant. Coding wise, I implemented swipe controls and different timing and switch mechanisms to create each of the puzzles. The swipe controls took a particularly long time because we needed to have numerous play testers in order to properly calibrate the sensitivity of the swipes. This was my first IOS App that I worked on.
 _Due to size limitations on uploads to github, I could not upload a build of the app because of the game's graphical elemnents._
 
-### NSHGA - Burger Time Recreation with a Breakfast Theme PC Game (Made as part of a team of 5)
+### NSHGA - Burger Time (Breakfast Theme Recreation) PC Game (Made as part of a team of 5)
+I worked on this project over the course of a week while attending the National High School Game Academy at CMU. I developed this as a programmer in a team of 5 developers (2 artists, 2 programmers, 1 sound designer). As a programmer, I was in charge of implementing basic movement controls, AI mapping and pathing, and the collisions of the falling pancake layers with the enemies and other pancake layers below. To get a better understanding of what the actual game is supposed to play like, here is a youtube link to a video of the gameplay: [video](https://www.youtube.com/watch?v=UZ2T6e4NObE) The most difficult part in this project was implementing the physics collisions between the falling layers of pancakes. Additionally, I had to implement an AI by mapping the environment, and using a shortest path finding algorithm.
+_Due to size limitations on uploads to github, I could not upload a build of the app because of the game's graphical elemnents._
 
-###
-
-***THIS PAGE IS STILL A WORK IN PROGRESS***
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](carlg0123@github.io) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CarlG0123/CarlG0123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Workout Tracker and Advisor (Plan to implement nutritional advice in the future)
+This is one of my latest projects apart from my experimental webapp and experimentation with SQL. I am building this project partly because I found use for it in my own life and my friends' lives (to track our workouts), but also because I am interesting in branching out to try to build connected apple watch app, and maybe even a full connected ecosystem of health apps (lifting, running, nutrition, and daily water intake). This goal is still very much a work in progress, but I am slowly developing the workout part of the ecosystem during my free time. One main feature that I want to include in all of the apps is a way to share your lifting workout, nutrition, running workouts, etc. with your friends with the click of a button. I have decided to use QR in order to implement this because I have previous experience implementing this through my development of the Scouting App (mentioned above).
+_This project is still in progress, but a functional build of the workout tracker will most likely be uploaded soon._
