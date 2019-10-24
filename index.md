@@ -3,19 +3,26 @@
 ## Bio
 I am a Undergraduate Computer Science Major at Wesleyan University. Over the past years, I have worked on several projects, most of them being mobile apps. Although many of my projects concern app development, I am beginning to branch into web development. Computer Science has always been a huge passion of mine, and I really enjoy how I am able to incorporate concepts that I have learned in classses such as Differential Equations, Information Theory, Discrete Mathematics, or Linear Algebra, into my programs. I have taken classes in multiple computer science topics, such as Expert Systems, Compilers and Interpreters, Computer Architecture, Numerical Methods, and even have done, individual research into subjects such as quantum computing and the connectome.
 
-## Projects
-### Harker Robotics - Scouting App
+## Major Projects
+### Harker Robotics - Scouting App (C#)
 One of my largest project is developing a data collection app for the FRC Harker Robotics Team. It functions as a partner app with another app that another member of the team developed to store and view all the data. My app focused on allowing to user to intutively and quickly record data as each match was happening. At first the UI may seem confusing, but for more details on how the competition actually worked, check out [this link](https://www.youtube.com/watch?v=Mew6G_og-PI). I worked with multiple menu input fields, toggles, and buttons to create a intuitive, efficient, and fun data collection process. I also used a huffman's code (based on the probability of typing certain letters, numbers, or punctuation) in order to compact the number of bits (especially in the 'comments' section) used to display the data in the QR code.
 ##### [Link to the repository](https://github.com/CarlG0123/ScoutingApp)
 
-### NHSGA - IOS Puzzle Platformer 'Sprout' Game (Made as part of a team of 5)
+### NHSGA - IOS Puzzle Platformer 'Sprout' Game (Made as part of a team of 5) (C#)
 This is another one of my larger projects. I developed this IOS game while at the National High School Game Academy at CMU in Pennsylvania. I worked on this game as a programmer in a team of 5 developers (2 artists, 2 programmers, 1 sound designer). In addition to my role as a programmer, I designed the puzzles and worked on creating a story with an emotional pull based around an old man trying to save a dying plant. Coding wise, I implemented swipe controls and different timing and switch mechanisms to create each of the puzzles. The swipe controls took a particularly long time because we needed to have numerous play testers in order to properly calibrate the sensitivity of the swipes. This was my first IOS App that I worked on. [link to a game design presentation about the game (slides 1-23)](https://docs.google.com/presentation/d/1SRRU6e57lkHXHmNx9fqHIKU_V0NrCOda35T2U-ee1h4/edit?usp=sharing)
 ##### _Due to size limitations on uploads to github, I could not upload a build of the app because of the game's graphical elemnents._
 
-### NSHGA - Burger Time (Breakfast Theme Recreation) PC Game (Made as part of a team of 5)
+### NSHGA - Burger Time (Breakfast Theme Recreation) PC Game (Made as part of a team of 5) (C#)
 I worked on this project over the course of a week while attending the National High School Game Academy at CMU. I developed this as a programmer in a team of 5 developers (2 artists, 2 programmers, 1 sound designer). As a programmer, I was in charge of implementing basic movement controls, AI mapping and pathing, and the collisions of the falling pancake layers with the enemies and other pancake layers below. To get a better understanding of what the actual game is supposed to play like, here is a youtube link to a video of the gameplay: [link to video](https://www.youtube.com/watch?v=UZ2T6e4NObE). The most difficult part in this project was implementing the physics collisions between the falling layers of pancakes. Additionally, I had to implement an AI by mapping the environment, and using a shortest path finding algorithm.
 ##### _Due to size limitations on uploads to github, I could not upload a build of the app because of the game's graphical elemnents._
 
-### Workout Tracker and Advisor (Plan to implement nutritional advice in the future)
+### Workout Tracker and Advisor (Plan to implement nutritional advice in the future) (C#)
 This is one of my latest projects apart from my experimental webapp and experimentation with SQL. I am building this project partly because I found use for it in my own life and my friends' lives (to track our workouts), but also because I am interesting in branching out to try to build connected apple watch app, and maybe even a full connected ecosystem of health apps (lifting, running, nutrition, and daily water intake). This goal is still very much a work in progress, but I am slowly developing the workout part of the ecosystem during my free time. One main feature that I want to include in all of the apps is a way to share your lifting workout, nutrition, running workouts, etc. with your friends with the click of a button. I have decided to use QR in order to implement this because I have previous experience implementing this through my development of the Scouting App (mentioned above).
 ##### _This project is still in progress, but a functional build of the workout tracker will most likely be uploaded soon._
+
+## Minor Projects
+### Differential Equation Solver (Java)
+This is a smaller project that I worked on in high school while taking Differential Equations 2 and Numerical Methods. I came up with an idea to create matrix objects in java and use them to find eigenvalues to solve various differential equations. I have always enjoyed combining the skills that I learn in my mathematics and science courses together with my knowledge of computer science.
+
+### Book Suggestion Expert System (Java)
+This is another smaller project that I programmed in high school while taking Expert Systems and Information Theory. This program would take in various reading preferences of the user, and return a book suggestion. I was able to simplify an expert system by drawing out a tree of decisions and using a huffman code to organize the tree to minimize the time the user would have to spend answering questions about their book preference.
