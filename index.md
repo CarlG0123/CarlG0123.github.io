@@ -1,5 +1,5 @@
 # My Github 
-###### (This page is still in progress)
+#### (Note: This page is not updated with my latest projects/repositories, Please visit my github profile (link on the left) to view my recent projects)
 ## Bio
 I am a Undergraduate Computer Science Major at Wesleyan University. Over the past years, I have worked on several projects, most of them being mobile apps. Although many of my projects concern app development, I am beginning to branch into web development. Computer Science has always been a huge passion of mine, and I really enjoy how I am able to incorporate concepts that I have learned in classses such as Differential Equations, Information Theory, Discrete Mathematics, or Linear Algebra, into my programs. I have taken classes in multiple computer science topics, such as Expert Systems, Compilers and Interpreters, Computer Architecture, Numerical Methods, and even have done, individual research into subjects such as quantum computing and the connectome.
 
